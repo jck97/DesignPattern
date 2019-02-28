@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<config>
+    <AndroidFactory>learn.AbstractFactory.AndroidFactory</AndroidFactory>
+    <ConciseMode>learn.Builder.ConciseMode</ConciseMode>
+</config>
