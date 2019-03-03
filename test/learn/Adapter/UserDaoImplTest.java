@@ -5,11 +5,7 @@ import org.junit.Before;
 import org.junit.After; 
 
 /** 
-* UserDaoImpl Tester. 
-* 
-* User: ${USER}
-* Date: ${YEAR}-${MONTH}-${DAY}
-* Time: ${TIME}
+* UserDaoImpl Tester.
 * @version 1.0 
 */ 
 public class UserDaoImplTest {

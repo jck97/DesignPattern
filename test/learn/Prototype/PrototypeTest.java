@@ -3,11 +3,7 @@ package learn.Prototype;
 import org.junit.Test;
 
 /** 
-* Client Tester. 
-* 
-* User: ${USER}
-* Date: ${YEAR}-${MONTH}-${DAY}
-* Time: ${TIME}
+* Client Tester.
 * @version 1.0 
 */ 
 public class PrototypeTest {

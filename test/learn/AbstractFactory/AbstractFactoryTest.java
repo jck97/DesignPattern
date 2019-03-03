@@ -6,11 +6,7 @@ import org.junit.Before;
 import org.junit.After; 
 
 /** 
-* AndroidFactory Tester. 
-* 
-* User: ${USER}
-* Date: ${YEAR}-${MONTH}-${DAY}
-* Time: ${TIME}
+* AndroidFactory Tester.
 * @version 1.0 
 */ 
 public class AbstractFactoryTest {

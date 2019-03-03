@@ -6,11 +6,7 @@ import org.junit.Before;
 import org.junit.After; 
 
 /** 
-* Client Tester. 
-* 
-* User: ${USER}
-* Date: ${YEAR}-${MONTH}-${DAY}
-* Time: ${TIME}
+* Client Tester.
 * @version 1.0 
 */ 
 public class BuilderTest {

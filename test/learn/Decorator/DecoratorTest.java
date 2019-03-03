@@ -3,11 +3,7 @@ package learn.Decorator;
 import org.junit.Test;
 
 /** 
-* Decorator Tester. 
-* 
-* User: ${USER}
-* Date: ${YEAR}-${MONTH}-${DAY}
-* Time: ${TIME}
+* Decorator Tester.
 * @version 1.0 
 */ 
 public class DecoratorTest { 
