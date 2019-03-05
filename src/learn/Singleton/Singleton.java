@@ -3,7 +3,7 @@
  *@Date: Created in 2019/2/23  19:29
  *@Description:
  */
-package learn;
+package learn.Singleton;
 
 import java.io.*;
 

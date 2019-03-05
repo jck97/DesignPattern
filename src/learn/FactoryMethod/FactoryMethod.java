@@ -3,7 +3,7 @@
  *@Date: Created in 2019/2/24  13:20
  *@Description:
  */
-package learn;
+package learn.FactoryMethod;
 
 import java.lang.reflect.Constructor;
 
